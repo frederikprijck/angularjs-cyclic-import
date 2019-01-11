@@ -1,4 +1,4 @@
-import { CommonAService } from "../../a/services/common-a.service";
+import { CommonAService } from "../../shared/services/common-a.service";
 
 class BController { 
     constructor(
